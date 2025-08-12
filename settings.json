@@ -1,6 +1,7 @@
 {
   "window.zoomLevel": 1,
   "symbols.hidesExplorerArrows": false,
+  "workbench.colorTheme": "Aura Dark",
   "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
   "workbench.iconTheme": "symbols",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -21,5 +22,4 @@
   "files.autoSave": "afterDelay",
   "editor.wordWrap": "on",
   "editor.formatOnSave": true,
-  "workbench.colorTheme": "Aura Dark"
 }
