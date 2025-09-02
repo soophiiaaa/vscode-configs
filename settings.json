@@ -5,6 +5,10 @@
   "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
   "workbench.iconTheme": "symbols",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
   "editor.rulers": [80, 120],
@@ -22,4 +26,5 @@
   "files.autoSave": "afterDelay",
   "editor.wordWrap": "on",
   "editor.formatOnSave": true,
+  "liveServer.settings.donotShowInfoMsg": true
 }
