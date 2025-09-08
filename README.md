@@ -22,7 +22,7 @@ Baseado nas minhas configurações, aqui estão as extensões que utilizo para o
 Se você gostou das minhas configurações e quer usá-las, siga estes passos:
 
 1.  **Clone o Repositório**: Faça o download deste repositório para o seu computador.
-2.  **Copie as Configurações**: Copie o conteúdo dos arquivos **`settings.json`** para os seus respectivos arquivos de configuração do VS Code. Você pode encontrá-los facilmente no menu do VS Code, em `File > Preferences > Settings` (ou usando o atalho `Ctrl+,`).
+2.  **Copie as Configurações**: Copie o conteúdo do arquivo **`settings.json`** para os seus respectivos arquivos de configuração do VS Code. Você pode encontrá-los facilmente no menu do VS Code, em `File > Preferences > Settings` (ou usando o atalho `Ctrl+,`).
 3.  **Instale as Extensões**: Abra a barra lateral de extensões (use o atalho `Ctrl+Shift+X`) e procure e instale as extensões listadas na seção **"Extensões"** deste `README`.
 
 -----
