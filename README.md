@@ -4,7 +4,7 @@ Este repositório contém minhas configurações e extensões do VS Code. Sinta-
 
 -----
 
-### 📦 Extensões
+### Extensões
 
 Baseado nas minhas configurações, aqui estão as extensões que utilizo para otimizar meu fluxo de trabalho em diferentes linguagens:
 
@@ -25,4 +25,14 @@ Se você gostou das minhas configurações e quer usá-las, siga estes passos:
 2.  **Copie as Configurações**: Copie o conteúdo dos arquivos **`settings.json`** e **`keybindings.json`** para os seus respectivos arquivos de configuração do VS Code. Você pode encontrá-los facilmente no menu do VS Code, em `File > Preferences > Settings` (ou usando o atalho `Ctrl+,`).
 3.  **Instale as Extensões**: Abra a barra lateral de extensões (use o atalho `Ctrl+Shift+X`) e procure e instale as extensões listadas na seção **"Extensões"** deste `README`.
 
-Pronto! Seu VS Code já estará com as mesmas configurações, temas e extensões que eu uso.
+-----
+
+### Prévia do Visual
+
+Veja como meu VS Code se apresenta com todas as configurações, temas e extensões aplicadas.
+
+*O código na imagem é apenas um exemplo visual e não é de minha autoria. Créditos ao autor original: **[Mikael Carlos](https://github.com/Mikaelnotfound)**.*
+
+![Exemplo de tela configurada](.assets/tela.png)
+
+-----
