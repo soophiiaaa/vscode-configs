@@ -31,8 +31,10 @@ Se você gostou das minhas configurações e quer usá-las, siga estes passos:
 
 Veja como meu VS Code se apresenta com todas as configurações, temas e extensões aplicadas.
 
-*O código na imagem é apenas um exemplo visual e não é de minha autoria. Créditos ao autor original: **[Mikael Carlos](https://github.com/Mikaelnotfound)**.*
+*O código na imagem é apenas um exemplo visual e não é de minha autoria.*
 
 ![Exemplo de tela configurada](.assets/tela.png)
+
+*Créditos ao autor original: **[Mikael Carlos](https://github.com/Mikaelnotfound)**.*
 
 -----
