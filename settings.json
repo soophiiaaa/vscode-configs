@@ -1,4 +1,8 @@
 {
+  "php-cs-fixer.executablePath": "/usr/local/bin/php-cs-fixer",
+  "php-cs-fixer.rules": "@PSR12",
+  "php-cs-fixer.allowRisky": true,
+
   "[php]": {
     "editor.defaultFormatter": "junstyle.php-cs-fixer",
     "editor.formatOnSave": true
@@ -7,8 +11,9 @@
     "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true
   },
+
   "breadcrumbs.enabled": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "esbenp.prettier-vscode", 
   "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
